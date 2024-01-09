@@ -6,6 +6,9 @@
   "homepage": "https://github.com/smilecode11/smiling-cli#readme",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin": {
+    "smiling-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
