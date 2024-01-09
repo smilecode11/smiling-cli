@@ -1,6 +1,6 @@
 {
   "name": "@smiling-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "smiling-cli core",
   "author": "smiling <18958849752@163.com>",
   "homepage": "https://github.com/smilecode11/smiling-cli#readme",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/smilecode11/smiling-cli/issues"
   },
-  "gitHead": "fd0a87783ce1cf4d4a695a5677e641a57d40a21b",
+  "gitHead": "b9238bb39a8f7606c4ce674c11e8b42caa89d4d3",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

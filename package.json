@@ -12,7 +12,6 @@
     "lerna": "^3.22.1"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   }
 }
