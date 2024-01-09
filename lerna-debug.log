@@ -1,0 +1,6 @@
+42 error Error: Command failed: git tag v1.0.1 -m v1.0.1
+42 error 致命错误：标签 'v1.0.1' 已存在
+42 error
+42 error     at makeError (/Users/wupeng/Desktop/myproject/cli/smiling_cli/smiling-cli/node_modules/.store/execa@1.0.0/node_modules/execa/index.js:174:9)
+42 error     at /Users/wupeng/Desktop/myproject/cli/smiling_cli/smiling-cli/node_modules/.store/execa@1.0.0/node_modules/execa/index.js:278:16
+42 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

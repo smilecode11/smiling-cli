@@ -1,0 +1,31 @@
+{
+  "name": "@smiling-cli/core",
+  "version": "1.0.0",
+  "description": "smiling-cli core",
+  "author": "smiling <18958849752@163.com>",
+  "homepage": "https://github.com/smilecode11/smiling-cli#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smilecode11/smiling-cli.git"
+  },
+  "scripts": {
+    "test": "echo Run testing from core"
+  },
+  "bugs": {
+    "url": "https://github.com/smilecode11/smiling-cli/issues"
+  },
+  "gitHead": "fd0a87783ce1cf4d4a695a5677e641a57d40a21b",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
